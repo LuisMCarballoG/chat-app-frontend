@@ -1,0 +1,17 @@
+{
+  "login": {
+    "username": "Nombre de usuario:",
+    "login": "Ingresar"
+  },
+  "chat": {
+    "appTitle": "Aplicación de Chat",
+    "offline": "Desconectado, reconectando...",
+    "online": "Conectado",
+    "searchMessages": "Buscar en los mensajes...",
+    "dropAllMyMessages": "Borrar todos mis mensajes",
+    "deleteAllMessages": "¿Estás seguro de que quieres borrar todos los mensajes?",
+    "typeMessage": "Escribe un mensaje...",
+    "deleteMessage": "Eliminar mensaje",
+    "editMessage": "Editar mensaje"
+  }
+}
